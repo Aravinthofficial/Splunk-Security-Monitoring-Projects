@@ -1,5 +1,4 @@
 # Splunk-Security-Monitoring-Projects
-````md
 # Splunk Fundamentals
 
 ## Overview
